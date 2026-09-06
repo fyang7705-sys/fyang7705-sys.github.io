@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Shanghai Jiao Tong University SRC Robocup Team, Small Size League"
+link: "https://sjtu-src.github.io/Wiki/"
+excerpt: "2023.10 - 2025.05 · Software Leader — leading the SSL strategy & motion-control software stack; ROBOCUP China Open 2025 National Second Prize<br/><img src='/images/ssl.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[SJTU-SRC Wiki](https://sjtu-src.github.io/Wiki/)

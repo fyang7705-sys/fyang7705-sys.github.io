@@ -14,7 +14,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🤖 Research Interests
 
-My research interests broadly lie in the intersection of **Agentic Robotics** and **Multi-Robot Systems**, aiming to build reliable systems of scalable autonomous robots that can **perceive, reason, communicate, plan, and act collaboratively** in complex environments. My final goal is to build 
+My research interests broadly lie in the intersection of **Agentic Robotics**, **Multi-Robot Systems** and **reinforcement learning**, aiming to build reliable systems of scalable autonomous robots that can **perceive, reason, communicate, plan, and act collaboratively** in complex environments. My final goal is to build 
 
 - **Agentic Robotics**: Developing autonomous robotic agents with capabilities in perception, reasoning, planning, and adaptive decision-making for long-horizon tasks.
 - **Multi-Robot Systems**: Enabling scalable and robust coordination, communication, and collaborative decision-making among teams of autonomous robots.
@@ -23,7 +23,7 @@ My research interests broadly lie in the intersection of **Agentic Robotics** an
 My long-term aspiration is to build a **fully autonomous team of intelligent soccer robots**, where each robot can achieve sophisticated team-level collaboration through **decentralized decision-making and execution**.
 
 # 📖 Educations
-- *sep 2023 - present*, **Bachelor of Automation Engineering**, Shanghai Jiao Tong University (SJTU), China
+- *sep 2023 - present*, **Bachelor of Automation Engineering**, SJTU, China
   - GPA: 3.95/4.3
   - Average: 91.14/100 
   - Advisor: [Shangding Gu](https://shangding-gu.github.io/)
